@@ -25,6 +25,8 @@ A curated collection of high-quality courses to build knowledge in **Artificial 
 | Google Prompting Essentials | Learn effective prompting techniques for AI tools. | [View Course](https://www.coursera.org/professional-certificates/google-ai) |
 | ADK Crash Course | ADK is an open-source s/w used for building AI agents | [View Course](https://codelabs.developers.google.com/onramp/instructions#5) |
 | Introduction to Agents | This helps us to understand basics of ADK | [View Course](https://www.skills.google/paths/3546)
+| Digital Customer Engagement| It helps to understand what tactics to be applied at which stage & improve conversion | [View Course](https://www.coursera.org/specializations/google-digital-customer-engagement)
+
 
 ---
 
