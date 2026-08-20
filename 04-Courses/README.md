@@ -23,6 +23,7 @@ A curated collection of high-quality courses to build knowledge in **Artificial 
 |--------|-------------|------|
 | Google AI Essentials | Learn AI fundamentals and practical applications. | [View Course](https://www.coursera.org/professional-certificates/google-ai) |
 | Google Prompting Essentials | Learn effective prompting techniques for AI tools. | [View Course](https://www.coursera.org/professional-certificates/google-ai) |
+| ADK Crash Course | ADK is an open-source s/w used for building AI agents | [View Course] (https://codelabs.developers.google.com/onramp/instructions#5) |
 
 ---
 
