@@ -9,10 +9,7 @@ This repository contains:
 
 - 📚 Learning Resources
 - 🤖 AI Concepts
-- 📝 PM Templates
 - 💼 Interview Prep
-- 📂 GitHub Repositories
-- ✨ Prompt Library
 - 🌍 Job Boards
 
 ---
@@ -26,10 +23,8 @@ This repository contains:
 | Books | Reading list |
 | Courses | Learning resources |
 | Interview Prep | PM interview notes |
-|Portfolio | How to build your PM Portfolio|
-| Prompt Library | AI prompts Useful for PMs |
 | Job Boards | PM jobs |
-| Templates | PRDs, Roadmaps |
+
 
 
 
