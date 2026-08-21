@@ -18,7 +18,7 @@ This repository contains:
 
 | Section | Description |
 |---------|-------------|
-| Product Management |Concpets,Frameworks & Strategy |
+| Product Management |Concepts,Frameworks & Strategy |
 | AI Fundamentals | LLMs, RAG, Agents,|
 | Books | Reading list |
 | Courses | Learning resources |
